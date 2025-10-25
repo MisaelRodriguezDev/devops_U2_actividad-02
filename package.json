@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-basica",
+  "version": "1.0.0",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/calculator.js"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
